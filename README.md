@@ -1,2 +1,1 @@
-# hello-world
-try
+# hi i am new guy.
